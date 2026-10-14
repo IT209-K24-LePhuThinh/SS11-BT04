@@ -92,4 +92,4 @@ Bước đăng nhập hiển thị dòng `Login Succeeded`, xác nhận token tr
 
 ## 6. Ảnh chụp màn hình
 
-![Mục Repository Secrets hiển thị biến REGISTRY_TOKEN](images/repository-secrets-registry-token.png)
+![Mục Repository Secrets hiển thị biến REGISTRY_TOKEN](image.png)
