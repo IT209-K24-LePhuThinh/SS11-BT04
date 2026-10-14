@@ -89,3 +89,7 @@ Run docker/login-action@v3
 ```
 
 Bước đăng nhập hiển thị dòng `Login Succeeded`, xác nhận token trong secret `REGISTRY_TOKEN` được sử dụng để xác thực thành công với GitHub Container Registry.
+
+## 6. Ảnh chụp màn hình
+
+![Mục Repository Secrets hiển thị biến REGISTRY_TOKEN](images/repository-secrets-registry-token.png)
